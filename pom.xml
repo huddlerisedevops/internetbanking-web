@@ -13,7 +13,7 @@
   <sonar.host.url>http://3.7.65.249:9000/</sonar.host.url>
   <!-- <sonar.login>admin</sonar.login> 
   <sonar.password>admin</sonar.password> -->
-    <sonar.login>ae4b59059b3057d2731d09ac8ecbb834afc09d61</sonar.login> 
+    <sonar.login>56174210756b403d275073d79de6eae5bac013f9</sonar.login> 
   </properties>
   <dependencies>
     <dependency>
