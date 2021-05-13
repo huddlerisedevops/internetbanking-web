@@ -29,12 +29,12 @@
   <repository>
    <id>nexus</id>
    <name>atmproject release</name>
-   <url>http://13.126.101.210:8081/repository/interbanking-relrepo/</url>
+   <url>http://13.126.109.124:8081/repository/interbanking-relrepo/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>atmproject snapshot</name>
-  <url>http://13.126.101.210:8081/repository/internetbanking-snapshots/</url>
+  <url>http://13.126.109.124:8081/repository/interbanking-relrepo/</url>
   </snapshotRepository>
   </distributionManagement>
 	
