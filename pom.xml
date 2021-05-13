@@ -25,6 +25,21 @@
   </dependencies>
   
   
+	<distributionManagement>
+  <repository>
+   <id>nexus</id>
+   <name>atmproject release</name>
+   <url>http://13.126.101.210:8081/repository/interbanking-relrepo/</url>
+  </repository>
+  <snapshotRepository>
+  <id>nexus</id>
+  <name>atmproject snapshot</name>
+  <url>http://13.126.101.210:8081/repository/internetbanking-snapshots/</url>
+  </snapshotRepository>
+  </distributionManagement>
+	
+  
+  
   <build>
     <finalName>internetbanking-webapp</finalName>
   </build>
