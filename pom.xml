@@ -26,13 +26,13 @@
  <distributionManagement>
   <repository>
    <id>nexus</id>
-   <name>atmproject release</name>
-   <url>http://3.6.36.167:8081/repository/interbanking-relrepo/</url>
+   <name>internetbanking release</name>
+   <url>http://52.66.109.213:8081/repository/interbanking-release/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
-  <name>atmproject snapshot</name>
-  <url>http://3.6.36.167:8081/repository/internetbanking-snapshots/</url>
+  <name>internetbanking release</name>
+  <url>http://52.66.109.213:8081/repository/internetbank-snapshots/</url>
   </snapshotRepository>
   </distributionManagement> 
   
