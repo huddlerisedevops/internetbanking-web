@@ -23,18 +23,18 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  distributionManagement>
+ <distributionManagement>
   <repository>
    <id>nexus</id>
    <name>atmproject release</name>
-   <url>http://3.6.36.167.124:8081/repository/interbanking-relrepo/</url>
+   <url>http://3.6.36.167:8081/repository/interbanking-relrepo/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>atmproject snapshot</name>
   <url>http://3.6.36.167:8081/repository/internetbanking-snapshots/</url>
   </snapshotRepository>
-  </distributionManagement> -->
+  </distributionManagement> 
   
   <build>
     <finalName>internetbanking-webapp</finalName>
