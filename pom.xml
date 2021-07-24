@@ -10,9 +10,9 @@
   <properties>
   <jdk.version>1.8</jdk.version>
   <spring.version></spring.version>
-  <sonar.host.url>http://13.235.100.11:9000</sonar.host.url>
+<!--  <sonar.host.url>http://ip:9000</sonar.host.url> -->
 <!-- <sonar.login>2bd9ba632338e6d67560764cb47de42a265388d1</sonar.login> -->
-  <sonar.password>admin</sonar.password>
+<!--  <sonar.password>admin</sonar.password> -->
   </properties>
   <dependencies>
     <dependency>
