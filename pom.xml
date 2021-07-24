@@ -12,7 +12,7 @@
   <spring.version></spring.version>
   <sonar.host.url>http://13.235.100.11:9000</sonar.host.url> 
 <!-- <sonar.login>2bd9ba632338e6d67560764cb47de42a265388d1</sonar.login> -->
-    <sonar.password>admin</sonar.password> 
+    <sonar.login>admin</sonar.login> 
  <sonar.password>Passw0rd</sonar.password> 
   </properties>
   <dependencies>
