@@ -37,7 +37,6 @@
   </snapshotRepository>
   </distributionManagement> -->
 	
-
   <build>
     <finalName>internetbanking-webapp</finalName>
   </build>
