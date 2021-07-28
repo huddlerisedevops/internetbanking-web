@@ -37,8 +37,7 @@
   <url>http://52.66.252.209:8081/repository/internetbanking-snapshots/</url>
   </snapshotRepository>
   </distributionManagement> 
-  
-  
+   
   
   <build>
     <finalName>internetbanking-webapp</finalName>
