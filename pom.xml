@@ -23,6 +23,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
  <distributionManagement>
   <repository>
    <id>nexus</id>
