@@ -24,20 +24,19 @@
     </dependency>
   </dependencies>
     
- <!--    
-  
+
  <distributionManagement>
   <repository>
    <id>nexus</id>
    <name>internetbanking release</name>
-   <url>http://52.66.252.209:8081/repository/internetbanking-releases/</url>
+   <url>http://13.232.59.105:8081/repository/internetbanking-releases/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>internetbanking release</name>
-  <url>http://52.66.252.209:8081/repository/internetbanking-snapshots/</url>
+  <url>http://13.232.59.105:8081/repository/internetbanking-snapshots/</url>
   </snapshotRepository>
-  </distributionManagement> -->
+  </distributionManagement> 
    
   
   <build>
