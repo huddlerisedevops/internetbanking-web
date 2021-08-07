@@ -10,7 +10,7 @@
   <properties>
   <jdk.version>1.8</jdk.version>
  
- <sonar.host.url>http://52.66.239.161:9000</sonar.host.url> 
+ <sonar.host.url>http://65.0.110.84:9000</sonar.host.url> 
    <sonar.login>94d6f0fe7b86906f5e128dc77ce2a421133cd7ca</sonar.login>
  <!--    <sonar.login>admin</sonar.login> -->
 <!--  <sonar.password>Passw0rd</sonar.password> -->
@@ -29,12 +29,12 @@
   <repository>
    <id>nexus</id>
    <name>internetbanking release</name>
-   <url>http://13.232.59.105:8081/repository/internetbanking-releases/</url>
+   <url>http://13.233.40.221:8081/repository/internetbanking-releases/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>internetbanking release</name>
-  <url>http://13.232.59.105:8081/repository/internetbanking-snapshots/</url>
+  <url>http://13.233.40.221:8081/repository/internetbanking-snapshots/</url>
   </snapshotRepository>
   </distributionManagement> 
    
