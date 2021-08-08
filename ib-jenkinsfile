@@ -1,0 +1,12 @@
+node{
+    stage('checkoutcode'){
+        
+        git branch: 'development', credentialsId: '1cedbbc1-e27f-4796-b214-44b88c304767', url: 'https://github.com/huddlerisedevops/internetbanking-web.git'
+    }
+    
+      stage('sendemailnotification'){
+    emailext body: '''
+Thanks,
+Huddlerise''', subject: 'Build Status', to: 'huddlerisedevops@gmail.com'
+}
+}
