@@ -10,8 +10,8 @@
   <properties>
   <jdk.version>1.8</jdk.version>
  
- <sonar.host.url>http://3.111.169.191:9000</sonar.host.url> 
-   <sonar.login>1b7256eb11557f8bbeabb8a52bc2b52b33ab3107</sonar.login>
+<!-- <sonar.host.url>http://3.111.169.191:9000</sonar.host.url>  -->
+ <!--    <sonar.login>1b7256eb11557f8bbeabb8a52bc2b52b33ab3107</sonar.login> -->
  <!--    <sonar.login>admin</sonar.login> -->
 <!--  <sonar.password>Passw0rd</sonar.password> -->
   </properties>
@@ -29,12 +29,12 @@
   <repository>
    <id>nexus</id>
    <name>internetbanking release</name>
-   <url>http://13.233.40.221:8081/repository/internetbanking-releases/</url>
+   <url>http://43.204.144.240:8081/repository/flipkart-releases/</url>
   </repository>
   <snapshotRepository>
   <id>nexus</id>
   <name>internetbanking release</name>
-  <url>http://13.233.40.221:8081/repository/internetbanking-snapshots/</url>
+  <url>http://43.204.144.240:8081/repository/flipkar-snapshots/</url>
   </snapshotRepository>
   </distributionManagement> 
    
